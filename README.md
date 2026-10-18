@@ -52,16 +52,21 @@ Confidence per emotion:
 ```
 
 ## Results
-Add your results here after training.
+<img width="1920" height="1080" alt="Screenshot (59)" src="https://github.com/user-attachments/assets/7fdac882-585f-4a34-9184-ca8496b9a7d3" />
+<img width="1920" height="1080" alt="Screenshot (60)" src="https://github.com/user-attachments/assets/1510ecfa-569a-4466-9884-94fb274d9e45" />
+<img width="1920" height="1080" alt="Screenshot (61)" src="https://github.com/user-attachments/assets/8bc88f7e-9e5c-4159-af88-330122ef2ba8" />
+
+
+
 
 | Metric | Value |
 |--------|-------|
-| Test Accuracy | |
+| Test Accuracy | 0.62|
 
-(Paste classification report / confusion matrix screenshot.)
+()
 
 ## Tech Stack
 Python, TensorFlow/Keras, librosa, NumPy, scikit-learn
 
 ## Author
-Your Name - CodeAlpha ML Intern
+Saibal - CodeAlpha ML Intern
